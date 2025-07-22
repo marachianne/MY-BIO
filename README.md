@@ -7,7 +7,7 @@
 Data Analysis | SQL | Excel | Power BI | R | Python | Tableau | STATA
 
 📫 How to reach me: annmmwadime@gmail.com  
-🌐 Portfolio: https://your-portfolio-link.github.io/
+🌐 Portfolio: https://github.com/marachianne
 
 ## 🌐 Connect with me:
 [www.linkedin.com/in/anne-mwadime-192905224)  
