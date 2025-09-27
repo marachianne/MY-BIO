@@ -3,7 +3,7 @@
 
 🔍 I’m looking to collaborate on data-driven projects that make real-world impact.
 
-🚀 Data Science Projects Portfolio 
+                                               🚀 Data Science Projects Portfolio 
 
 Welcome to my Data Science Projects Repository!
 
